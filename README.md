@@ -1,4 +1,4 @@
-learn## JavaScript Practice Scope Lab
+## JavaScript Practice Scope Lab
 
 ## Objectives
 
